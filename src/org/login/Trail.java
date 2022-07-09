@@ -31,6 +31,14 @@ public class Trail {
 		System.out.println("jikku");
 		
 
+		
+		
+
+		System.out.println("North");
+		System.out.println("South");
+		System.out.println("East");
+
+		
 	}
 	
 		
