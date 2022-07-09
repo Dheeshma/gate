@@ -28,9 +28,17 @@ public class Trail {
 		for(Entry<Integer,String>entryset:m.entrySet());
 		System.out.println();
 		
+		System.out.println("jikku");
+		
+
+		
+		
+
 		System.out.println("North");
 		System.out.println("South");
 		System.out.println("East");
+
+		
 	}
 	
 		
